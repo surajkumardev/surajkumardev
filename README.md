@@ -1,9 +1,11 @@
-Sure! Here’s a completed version based on the provided document:
+👋 Hi, I’m Suraj Kumar Dev  
+🌐 I'm a second-year BTech student passionate about web development, currently mastering Java Spring Boot and exploring cutting-edge technologies.  
+💻 Tech Stack: Java, Spring Boot, HTML, CSS, JavaScript, TypeScript, and more.  
+📚 I'm actively learning about machine learning to expand my technical expertise and contribute to impactful projects.  
+🚀 Open to collaborating on web applications and machine learning initiatives.  
+📫 Reach me at [surajkumardev121@gmail.com](mailto:surajkumardev121@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/surajkumardev).  
+😄 Pronouns: He/Him  
+🏆 Achievements:  
+- CodeForces Rating: 1021  
+- CodeChef Rating: 1234  
 
-- 👋 Hi, I’m Suraj
-- 👀 I’m interested in web development and technologies that use Typescript.
-- 🌱 I’m currently learning more about machine learning and enhancing my skills in web development.
-- 💞️ I’m looking to collaborate on projects related to web applications and machine learning.
-- 📫 How to reach me: You can email me at surajkumardev121@gmail.com or connect with me on LinkedIn at Surajkumardev.
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I have a 1021 rating on CodeForces and a 1234 rating on CodeChef!
